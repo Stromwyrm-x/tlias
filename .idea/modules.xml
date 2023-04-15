@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/tlias.iml" filepath="$PROJECT_DIR$/.idea/tlias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tlias-parent/tlias-parent.iml" filepath="$PROJECT_DIR$/tlias-parent/tlias-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tlias-pojo/tlias-pojo.iml" filepath="$PROJECT_DIR$/tlias-pojo/tlias-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tlias-utils/tlias-utils.iml" filepath="$PROJECT_DIR$/tlias-utils/tlias-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tlias-web-management/tlias-web-management.iml" filepath="$PROJECT_DIR$/tlias-web-management/tlias-web-management.iml" />
+    </modules>
+  </component>
+</project>
